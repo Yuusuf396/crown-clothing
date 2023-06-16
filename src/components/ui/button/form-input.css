@@ -1,0 +1,22 @@
+/* :root{
+    --sub-color: grey;
+    --main-color: black;
+    
+ }
+ 
+    .form-input {
+        background: none;
+        background-color: white;
+        color: var(sub-color) ;
+        font-size: 18px;
+        padding: 10px 10px 10px 5px;
+        display: block;
+        width: 100%;
+        border: none;
+        border-radius: 1rem;
+        border-bottom: 1px solid  var(--sub-color);
+        margin: 25px 0;
+ }
+.group{
+
+} */
