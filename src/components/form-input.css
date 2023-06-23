@@ -1,0 +1,12 @@
+input{
+    width: 18rem;
+    height: 1.8rem;
+    border: .14rem solid #808080 ;
+    border-radius: 4px;
+    padding: .5rem;
+    margin-top: .2rem;
+}
+.group{
+    width: 18rem;
+
+}

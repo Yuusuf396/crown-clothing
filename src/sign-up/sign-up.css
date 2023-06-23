@@ -1,0 +1,103 @@
+.head-container{
+    margin: 0;
+    padding: 0;
+    /* display: flex;
+    justify-content: center;
+    flex-direction: row; */
+    background-image: url("../assets/co-workerss.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image_container{
+    width: 10rem;
+}
+.image_container img{
+    width: 100%;
+    /* height: 100rem; */
+}
+/* .center{
+
+    display: grid;
+} */
+
+/* E1D9D1 dark white/*
+/* #415c76 dark blue black */
+/* sign-in-sign-up */
+.container {
+    background-color:#fff ;
+	place-items: center;
+    padding:4rem 2rem 2rem 1rem;
+    display: flex;
+    flex-direction: row;
+    border-radius: 2rem;
+
+    gap: 1rem;
+    justify-content: space-around;
+}
+.sign_in_with{
+    color: #6B6B6B;
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+label{
+   color: #6B6B6B; 
+   font-weight: 600;
+   width:3rem ;
+}
+.label_container{
+    max-width: 10rem;
+    padding-right: 0;
+    margin-right: 0;
+}
+
+/* Sign In only */
+.or{
+    color: #6B6B6B;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+.socials{
+    display: flex;
+    flex-direction: column;
+}
+.socials button{
+    color: #415c76;
+    background-color: #fff;
+    /* height: 2rem; */
+    border: .14rem solid #415c76;
+    width: 13rem;
+    margin: .4rem;
+    padding: .4rem;
+    /* border: none; */
+    font-size: 1.1rem;
+    border-radius: .4rem;
+    font-weight: 600;
+    cursor: pointer; 
+    text-align: center;
+}
+
+.socials button:hover,.socials-icons:hover{
+    color: #fff;
+    background: #415c76;
+    transition: ease-in-out .3s;
+}
+.socials-icons{
+    width: 2rem;
+}
+
+.socials-icons img{
+    width: 100%;
+}
+
+.social-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.social-links span{
+    font-size: 1rem;
+    
+}
+svg{
+    fill: #415c76;
+}

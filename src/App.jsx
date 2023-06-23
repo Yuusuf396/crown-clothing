@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState } from 'react'
 import {Link, NavLink, Route,Routes, useRoutes } from 'react-router-dom'
 
@@ -67,6 +68,21 @@ import SignInAndSignUpPage from './pages/sign-in-and-sign-up/sign-in-and-sign-up
 
       </Routes>   */}
     </div>
+=======
+// import { useState } from 'react'
+// import reactLogo from './assets/react.svg'
+// import viteLogo from '/vite.svg'
+import './App.css'
+import SignIn from './sign-in/sign-in'
+
+function App() {
+  // const [count, setCount] = useState(0)
+
+  return (
+    <>
+      <SignIn/>
+    </>
+>>>>>>> 84fb644 (finalising the design on the sign-up page)
   )
 }
 

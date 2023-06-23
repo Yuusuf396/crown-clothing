@@ -1,11 +1,24 @@
+<<<<<<< HEAD
 /* :root {
+=======
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ :root {
+>>>>>>> 84fb644 (finalising the design on the sign-up page)
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
   color-scheme: light dark;
+<<<<<<< HEAD
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
+=======
+  color: rgba(255, 255, 255, 0);
+  background-color: #f9f9f9 ;
+>>>>>>> 84fb644 (finalising the design on the sign-up page)
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -25,7 +38,11 @@ a:hover {
 
 body {
   margin: 0;
+<<<<<<< HEAD
   display: flex;
+=======
+  display: flex; 
+>>>>>>> 84fb644 (finalising the design on the sign-up page)
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
@@ -66,4 +83,8 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+<<<<<<< HEAD
 } */
+=======
+}  */
+>>>>>>> 84fb644 (finalising the design on the sign-up page)
