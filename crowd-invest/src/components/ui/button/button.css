@@ -1,0 +1,28 @@
+
+ 
+ div{
+    /* display: flex; */
+    align-items: center;
+ }
+
+ .submit-btn{
+   color: #fff;
+   background-color: #415c76;
+   height: 2.5rem;
+   width: 17rem;
+   margin-top: 1rem;
+   margin-left:1rem;
+   border: none;
+   font-size: 1.5rem;
+   border-radius: .4rem;
+   font-weight: 600;
+   cursor: pointer;
+
+ }
+
+ .submit-btn:hover{
+   color: #415c76 ;
+   background-color: #A9A9A9 ;
+   scale: 1.1;
+   transition: ease-in-out .4s;
+ }

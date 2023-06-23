@@ -1,0 +1,25 @@
+/* .sign-in{
+    width: 30rem;
+    
+} */
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* margin-left: 70rem; */
+  }
+  
+/* 
+.container{
+   display: flex; 
+    flex-direction: column;
+     justify-content: center;
+     align-items: center;  
+   
+} */
+
+ 
