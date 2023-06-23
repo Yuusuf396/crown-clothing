@@ -77,9 +77,10 @@ label{
 }
 
 .socials button:hover,.socials-icons:hover{
-    color: #fff;
-    background: #415c76;
-    transition: ease-in-out .3s;
+    /* color: #fff;
+    background: #415c76; */
+    scale: 1.14;
+    transition: ease-in-out .5s;
 }
 .socials-icons{
     width: 2rem;
